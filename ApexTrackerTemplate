@@ -1,3 +1,10 @@
+"""
+Applet: ApexLegends
+Summary: API Stat and Map Tracker
+Description: Apex API Map Rotation and Stat checker
+Author: Tucker Walden
+"""
+
 load("render.star", "render")
 load("http.star", "http")
 load("encoding/base64.star", "base64")
